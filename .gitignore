@@ -1,0 +1,4 @@
+azureMLOneraWing/other/*
+azureMLOneraWing/.azureml/config.json
+azureMLOneraWing/.vscode/settings.json
+post_material/*
